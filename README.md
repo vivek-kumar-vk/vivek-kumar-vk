@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India Recent Graduate of SJB Institute of Technology with an attitude to work in a dynamic environment that uses my skills and expertise in process of growth and development while allowing me to learn and enrich my competencies.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-kumar-vk&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-kumar-vk" /> </p>
+
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
