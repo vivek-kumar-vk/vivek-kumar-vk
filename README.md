@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">A passionate frontend developer from India Recent Graduate of SJB Institute of Technology with an attitude to work in a dynamic environment that uses my skills and expertise in process of growth and development while allowing me to learn and enrich my competencies.</h3>
+<h3 align="center">A passionate frontend developer from India and Recent Graduate of SJB Institute of Technology with an attitude to work in a dynamic environment that uses my skills and expertise in process of growth and development while allowing me to learn and enrich my competencies.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
