@@ -24,5 +24,7 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
 ## ✨ Fun Facts 
 
 - I love to play a variety of games and explore different types of game categories.
+
 - Watching anime is my side quest for life.
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=amgsjc25hz45xr23f8hhpygkt&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=amgsjc25hz45xr23f8hhpygkt&redirect=true)
