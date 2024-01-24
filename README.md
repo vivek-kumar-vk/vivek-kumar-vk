@@ -19,7 +19,8 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
  
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/viv3k_kumar_/) or [Email](vkjha2511@gmail.com). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/viv3k_kumar_/) or [Gmail](mailto:vkjha2511@gmail.com)
+. 
 
 ## ✨ Fun Facts 
 
