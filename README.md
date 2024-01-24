@@ -13,7 +13,7 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
 
 **Backend Development:** `Java` `Maven` `Servlet` `Hibernate` `Spring` `JPA`
 
-**Version Control:** `Git` 
+**Version Control:** `Git` , `GitBash`
 
 **DataBase:**  `MySQL` , `HQL` , `Oracle` 
  
