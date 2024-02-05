@@ -5,6 +5,8 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
 
 - Check out my [website](https://vivek-kumar-vk.netlify.app/) to learn more about me.
 
+- - Check out my [Time Spent](https://wakatime.com/@Killua) on learning development.
+
 - Contact Me in  [Instagram](https://www.instagram.com/viv3k_kumar_/), Where I would love to share my learnings and tips to become a better fullstack developer to you 🫰.
 
 ## 📦 Toolbox
