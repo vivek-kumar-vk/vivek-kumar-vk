@@ -18,6 +18,8 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
 **Version Control:** `Git` , `GitBash`
 
 **DataBase:**  `MySQL` , `HQL` , `Oracle` 
+
+**Others:**  `Insomnia` , `Postman` , `Junit` , `Mockito`
  
 ## 📫 Contact
 
