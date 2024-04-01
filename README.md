@@ -5,21 +5,21 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
 
 - Check out my [website](https://vivek-kumar-vk.netlify.app/) to learn more about me.
 
-- - Check out my [Time Spent](https://wakatime.com/@Killua) on learning development.
+- Check out my [Time Spent](https://wakatime.com/@Killua) on learning development.
 
-- Contact Me in  [Instagram](https://www.instagram.com/viv3k_kumar_/), Where I would love to share my learnings and tips to become a better fullstack developer to you 🫰.
+- Contact Me on  [Instagram](https://www.instagram.com/viv3k_kumar_/), Where I would love to share my learnings and tips to become a better fullstack developer with you 🫰.
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `JavaScript` `Tailwind` `Css` `HTML` `JSP`
+**Frontend Development:** `React` `JavaScript` `Tailwind` `CSS` `HTML` `JSP`
 
 **Backend Development:** `Java` `Maven` `Servlet` `Hibernate` `Spring` `JPA`
 
-**Version Control:** `Git` , `GitBash`
+**Version Control:** `Git`, `GitBash`
 
-**DataBase:**  `MySQL` , `HQL` , `Oracle` 
+**DataBase:**  `MySQL`, `HQL`, `Oracle` 
 
-**Others:**  `Insomnia` , `Postman` , `Junit` , `Mockito`
+**Others:**  `Insomnia`, `Postman`, `Junit`, `Mockito`
  
 ## 📫 Contact
 
